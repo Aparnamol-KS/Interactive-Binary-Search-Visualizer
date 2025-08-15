@@ -7,9 +7,21 @@
 
 A simple and interactive visualizer that demonstrates how Binary Search works step by step. Users can enter a target number and watch the algorithm in action through a clean and responsive UI.
 
----
 
-## 🚀 Features
+## Demo
+
+#### *Experience the Binary Search Visualizer live:* 
+
+[Try the Interactive Binary Search Visualizer](https://aparnamol-ks.github.io/Interactive-Binary-Search-Visualizer/)
+
+
+
+> Hover over the array elements and watch how the algorithm searches step by step.
+
+
+
+
+## Features
 
 - *Accepts user input to search a number*
 - *Supports user-defined custom arrays*
@@ -17,18 +29,16 @@ A simple and interactive visualizer that demonstrates how Binary Search works st
 - *Step-by-step binary search animation*
 - *Built using modern stack: Vite + React + Tailwind CSS*
 
----
 
-## 🧰 Tech Stack
+## Tech Stack
 - React – *Component-based UI library*
 - Vite – *Fast build tool and development server*
 - Tailwind CSS – *Utility-first CSS framework for styling*
 - JavaScript (ES6+) – *Logic and interactivity*
 - HTML5 & CSS3 – *Underlying markup and styling*
   
----
 
-## 🧑‍💻 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -44,8 +54,6 @@ npm install
 ```
 npm run dev
 ```
----
 
-## 📸 Demo
 
-https://github.com/user-attachments/assets/ca71f955-4d9c-4a47-bc7f-bdcbfd356056
+
