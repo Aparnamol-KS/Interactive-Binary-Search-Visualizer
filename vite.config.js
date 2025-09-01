@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),tailwindcss(),
   ],
+  base: '/Interactive-Binary-Search-Visualizer/'
 })
 
 
-  
