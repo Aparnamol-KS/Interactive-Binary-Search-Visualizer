@@ -1,4 +1,4 @@
-# Binary Search Visualizer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&letterSpacing=medium&duration=4997&pause=1000&color=F7F7F7&background=A4DBFF00&width=700&height=80&lines=Binary+Search+Visualizer)](https://git.io/typing-svg)
 
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Powered%20by-Vite-646CFF?logo=vite)](https://vitejs.dev/)
